@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bc567764_002D3082_002D45a2_002Dae31_002D02356bc52709/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Personal_top_three_from_a_list_of_scores" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::540E4190-4224-4327-8FDF-074945931166::.NETCoreApp,Version=v3.0::HighScoresTests.Personal_top_three_from_a_list_of_scores&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f70901c0_002D9a71_002D4159_002Dbd36_002D405ff5a30e1f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Personal_top_three_from_a_list_of_scores #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::540E4190-4224-4327-8FDF-074945931166::.NETCoreApp,Version=v3.0::HighScoresTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
